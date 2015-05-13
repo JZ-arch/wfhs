@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/potentiometer">
+        <file>dial1.svg</file>
+        <file>dial2.svg</file>
+        <file>dial4.svg</file>
+        <file>dial3.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/togglebutton">
+        <file>on1.png</file>
+        <file>off1.png</file>
+        <file>off2.png</file>
+        <file>up_pressed.png</file>
+        <file>down.png</file>
+        <file>down_pressed.png</file>
+        <file>up.png</file>
+        <file>right_pressed.png</file>
+        <file>left.png</file>
+        <file>left_pressed.png</file>
+        <file>right.png</file>
+        <file>on2.png</file>
+        <file>on3.png</file>
+    </qresource>
+</RCC>

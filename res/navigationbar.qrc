@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/navigationbar">
+        <file>盥洗室.png</file>
+        <file>餐厅.png</file>
+        <file>客房.png</file>
+        <file>玄关.png</file>
+        <file>书房.png</file>
+        <file>次卧.png</file>
+        <file>客厅.png</file>
+        <file>主卧.png</file>
+        <file>设置.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
